@@ -1,0 +1,141 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container">
+    <div ng-app="appModule" ng-controller="appController">
+        <h2>CRUD Operation</h2>
+        <input type="hidden" ng-model="Id" />
+        <div class="form-group">
+            <label for="Name">Name</label>
+            <input type="text" required class="form-control" ng-model="Name">
+        </div>
+        <div class="form-group">
+            <label for="Phone">Phone:</label>
+            <input type="text" required class="form-control" ng-model="Phone">
+        </div>
+        <button ng-click="save()" ng-disabled="SaveData" class="btn btn-primary">Save Data</button>
+        <button ng-click="editSave()" ng-disabled="Editable" class="btn btn-primary">Edit Data</button>
+
+        <hr />
+        <table class="table table-hover table-striped" ng-init="getData()">
+            <tr>
+                <th>Name</th>
+                <th>Phone</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            <tr data-ng-repeat="x in crud">
+                <td>{{ x.Name }}</td>
+                <td>{{ x.Phone }}</td>
+                <td>
+                    <button class="btn" ng-click="Edit( x.Id )"><i class="fa fa-edit"></i></button>
+                </td>
+                <td>
+                    <button class="btn" ng-click="Delete( x.Id )"><i class="fa fa-trash"></i></button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+<script>
+    var app = angular.module("appModule", []);
+    app.controller("appController", function ($scope, $http) {
+        $scope.SaveData = false;
+        $scope.Editable = true;
+        $scope.getData = function () {
+            $http({
+                method: 'POST',
+                url: '/Home/GetData',
+            }).then(function (data) {
+                $scope.crud = data.data;
+            });
+        }
+        $scope.Edit = function (id) {
+            var data = {
+                Id: id,
+            };
+            $http({
+                method: 'POST',
+                url: '/Home/EditData',
+                data: data,
+                dataType: "json",
+            }).then(function (data) {
+                $scope.Name = data.data.Name;
+                $scope.Phone = data.data.Phone;
+                $scope.Id = data.data.Id;
+                $scope.SaveData = true;
+                $scope.Editable = false;
+            });
+        }
+        $scope.Delete = function (id) {
+            var data = {
+                Id: id,
+            };
+            $http({
+                method: 'POST',
+                url: '/Home/Delete',
+                data: data,
+                dataType: "json",
+            }).then(function (data) {
+                alert("Data deleted successfully");
+                $scope.Name = "";
+                $scope.Phone = "";
+                $scope.getData();
+            });
+        }
+        $scope.save = function () {
+            var data = {
+                Name: $scope.Name,
+                Phone: $scope.Phone
+            };
+            $http({
+                method: 'POST',
+                url: '/Home/Index',
+                data: data,
+                dataType: "json",
+            }).then(function (data) {
+                if (data.data.success) {
+                    alert("Data Inserted Successfully");
+                    $scope.Name = "";
+                    $scope.Phone = "";
+                    $scope.getData();
+                } else {
+                    alert("Something went wrong");
+                }
+            });
+        }
+
+        $scope.editSave = function () {
+            var data = {
+                Name: $scope.Name,
+                Phone: $scope.Phone,
+                Id : $scope.Id
+            };
+            $http({
+                method: 'POST',
+                url: '/Home/Editsave',
+                data: data,
+                dataType: "json",
+            }).then(function (data) {
+                if (data.data.success) {
+                    alert("Data Edited Successfully");
+                    $scope.getData();
+                    $scope.SaveData = false;
+                    $scope.Editable = true;
+                    $scope.Name = "";
+                    $scope.Phone = "";
+                    $scope.Id = "";
+                } else {
+                    alert("Something went wrong");
+                }
+            });
+        }
+    });
+</script>

@@ -1,0 +1,172 @@
+D:\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+D:\AngularDemo\AngularDemo\bin\AngularDemo.dll
+D:\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+D:\AngularDemo\AngularDemo\bin\roslyn\csc.exe
+D:\AngularDemo\AngularDemo\bin\roslyn\csc.exe.config
+D:\AngularDemo\AngularDemo\bin\roslyn\csc.rsp
+D:\AngularDemo\AngularDemo\bin\roslyn\csi.exe
+D:\AngularDemo\AngularDemo\bin\roslyn\csi.exe.config
+D:\AngularDemo\AngularDemo\bin\roslyn\csi.rsp
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\AngularDemo\AngularDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AngularDemo\AngularDemo\bin\roslyn\System.AppContext.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Console.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.IO.Compression.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.IO.Pipes.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Security.AccessControl.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Security.Claims.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.ValueTuple.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Xml.XPath.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\AngularDemo\AngularDemo\bin\roslyn\vbc.exe
+D:\AngularDemo\AngularDemo\bin\roslyn\vbc.exe.config
+D:\AngularDemo\AngularDemo\bin\roslyn\vbc.rsp
+D:\AngularDemo\AngularDemo\bin\roslyn\VBCSCompiler.exe
+D:\AngularDemo\AngularDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\AngularDemo\AngularDemo\bin\Antlr3.Runtime.dll
+D:\AngularDemo\AngularDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\AngularDemo\AngularDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AngularDemo\AngularDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\AngularDemo\AngularDemo\bin\Newtonsoft.Json.dll
+D:\AngularDemo\AngularDemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.Helpers.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.Mvc.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.Optimization.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.Razor.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.WebPages.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.dll
+D:\AngularDemo\AngularDemo\bin\WebGrease.dll
+D:\AngularDemo\AngularDemo\bin\System.Web.Helpers.xml
+D:\AngularDemo\AngularDemo\bin\System.Web.Mvc.xml
+D:\AngularDemo\AngularDemo\bin\System.Web.Optimization.xml
+D:\AngularDemo\AngularDemo\bin\System.Web.Razor.xml
+D:\AngularDemo\AngularDemo\bin\System.Web.WebPages.xml
+D:\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.xml
+D:\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.xml
+D:\AngularDemo\AngularDemo\bin\Newtonsoft.Json.xml
+D:\AngularDemo\AngularDemo\bin\Antlr3.Runtime.pdb
+D:\AngularDemo\AngularDemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\AngularDemo\AngularDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\AngularDemo\AngularDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojAssemblyReference.cache
+D:\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csproj.CoreCompileInputs.cache
+D:\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csproj.CopyComplete
+D:\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+D:\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+D:\AngularDemo\AngularDemo\bin\EntityFramework.dll
+D:\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.dll
+D:\AngularDemo\AngularDemo\bin\EntityFramework.xml
+D:\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.xml
+D:\AngularDemo\AngularDemo\obj\Debug\AngularDemo.Migrations.initial.resources
+D:\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csproj.GenerateResource.cache
+D:\All Demo\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+D:\All Demo\AngularDemo\AngularDemo\bin\AngularDemo.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\csc.exe
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\csc.exe.config
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\csc.rsp
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\csi.exe
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\csi.exe.config
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\csi.rsp
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.AppContext.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Console.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.IO.Compression.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.IO.Pipes.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Security.AccessControl.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Security.Claims.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.ValueTuple.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Xml.XPath.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\vbc.exe
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\vbc.exe.config
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\vbc.rsp
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\VBCSCompiler.exe
+D:\All Demo\AngularDemo\AngularDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\All Demo\AngularDemo\AngularDemo\bin\Antlr3.Runtime.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\EntityFramework.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\Newtonsoft.Json.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Diagnostics.DiagnosticSource.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Helpers.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Mvc.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Optimization.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Razor.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.WebPages.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\WebGrease.dll
+D:\All Demo\AngularDemo\AngularDemo\bin\EntityFramework.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\EntityFramework.SqlServer.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Helpers.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Mvc.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Optimization.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.Razor.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.WebPages.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Deployment.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Web.WebPages.Razor.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\Newtonsoft.Json.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\Antlr3.Runtime.pdb
+D:\All Demo\AngularDemo\AngularDemo\bin\System.Diagnostics.DiagnosticSource.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\All Demo\AngularDemo\AngularDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\All Demo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojAssemblyReference.cache
+D:\All Demo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.Migrations.initial.resources
+D:\All Demo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csproj.GenerateResource.cache
+D:\All Demo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csproj.CoreCompileInputs.cache
+D:\All Demo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csproj.CopyComplete
+D:\All Demo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+D:\All Demo\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
